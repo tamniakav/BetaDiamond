@@ -1,0 +1,2 @@
+# BetaDiamond
+Just another repository
